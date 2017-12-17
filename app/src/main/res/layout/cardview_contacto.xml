@@ -18,8 +18,25 @@
             android:id="@+id/imgFoto"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:src="@drawable/imagengato"
+            />
 
+        <TextView
+            android:id="@+id/tvNombreCV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pnombre"
+            android:textSize="@dimen/nombre_cardView"
+            android:textStyle="bold"
+            />
 
+        <TextView
+            android:id="@+id/tvTelefonoCV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ptelefono"
+            android:textSize="@dimen/nombre_cardView"
+            android:textStyle="bold"
             />
 
     </LinearLayout>

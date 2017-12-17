@@ -10,4 +10,5 @@
     <dimen name="card_titulo">20dp</dimen>
     <dimen name="card_height">300dp</dimen>
     <dimen name="corner_radius_cardView">4dp</dimen>
+    <dimen name="nombre_cardView">20sp</dimen>
 </resources>
